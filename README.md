@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 
 ## Hey there, I'm Lucas Moreira 
-#### Computer Science student || Flutter Developer || Django Developer || Project Manager.
+#### Computer Science || Python/Django Developer.
 
-- 🔭 I’m currently working on Flutter projects
-- 🌱 I’m currently learning many things about Flutter
-- 🖥 Flutter || Dart || Django ||Python || C++
+- 🔭 I’m currently working on Python projects
+- 🖥 Django || Python || GCP || Microsservces
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=moreiralucas&show_icons=true&theme=dracula&hide=prs,contribs)
