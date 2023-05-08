@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### Computer Science || Python/Django Developer.
 
 - 🔭 I’m currently working on Python projects
-- 🖥 Django || Python || GCP || Microsservces
+- 🖥 Django || Python || GCP || Microsservices
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=moreiralucas&show_icons=true&theme=dracula&hide=prs,contribs)
