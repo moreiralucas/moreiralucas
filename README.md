@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Snake animation](https://github.com/moreiralucas/moreiralucas/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Hey there, I'm Lucas Moreira 
@@ -26,6 +27,7 @@ My top 3 languages or tools
 ![Google Cloud](https://img.shields.io/badge/-Googlecloud-000000?style=flat&logo=googlecloud)
 
 Others languages and tools that I use
+
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=postgresql)
