@@ -19,13 +19,29 @@ Here are some ideas to get you started:
 ## Hey there, I'm Lucas Moreira 
 #### Computer Science || Python/Django Developer.
 
-- 🔭 I’m currently working on Python projects
-- 🖥 Django || Python || GCP || Microsservices
+My top 3 languages or tools
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=yellow)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![Google Cloud](https://img.shields.io/badge/-Googlecloud-000000?style=flat&logo=googlecloud)
+
+Others languages and tools that I use
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=postgresql)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Nginx](https://img.shields.io/badge/-Nginx-222222?style=flat&logo=Nginx&logoColor=white&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker&logoColor=1575F9)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moreiralucas&show_icons=true&theme=dracula&hide=prs,contribs)
+<div>
+  <a href="https://github.com/moreiralucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moreiralucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreiralucas&layout=compact&hide=tex&langs_count=7&theme=dracula"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moreiralucas&&layout=compact&hide=tex)](https://github.com/moreiralucas/)
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moreiralucas)](https://github.com/anuraghazra/github-readme-stats)
 -->
@@ -34,7 +50,7 @@ Here are some ideas to get you started:
 
 ### Find me elsewhere 🌎
 
-[🖥: Site](https://moreiralucas.github.io/) <br>
+[🖥: Website](https://moreiralucas.github.io/) <br>
 [💼: LinkedIn](https://www.linkedin.com/in/moreiralucascc/) <br>
 
-![Profile views](https://gpvc.arturio.dev/moreiralucas)   
+<!-- ![Profile views](https://gpvc.arturio.dev/moreiralucas)    -->
