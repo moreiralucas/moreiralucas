@@ -42,6 +42,7 @@ Others languages and tools that I use
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker&logoColor=1575F9)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+![Google Cloud](https://img.shields.io/badge/-Googlecloud-000000?style=flat&logo=googlecloud)
 
 
 <div>
@@ -58,7 +59,7 @@ Others languages and tools that I use
 
 ### Find me elsewhere 🌎
 
-[🖥: Website](https://moreiralucas.github.io/) <br>
+<!-- [🖥: Website](https://moreiralucas.github.io/) <br> -->
 [💼: LinkedIn](https://www.linkedin.com/in/moreiralucascc/) <br>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/moreiralucas)    -->
